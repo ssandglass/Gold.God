@@ -136,6 +136,35 @@
      "filterable":1
     },
     {
+      "key": "___xmf哔",
+      "name": "哔嘀",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitea.com/sandglass/jiek/raw/branch/main/bidi.json"
+    },
+    {
+      "key":"spider_Bttoo",
+      "name":"📚2BT(SP)",
+      "type":3,
+      "api":"csp_Bttoo",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
+      "key":"csp_appys_美剧虫",
+      "name":"美剧虫(V1)",
+      "type":3,
+      "api":"csp_AppYs",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://meijuchong.com/api.php/v1.vod"
+    },
+    {
      "key":"csp_n0ys",
      "name":"💥1090影视(SP)",
      "type":3,
@@ -550,5 +579,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-	  "spider": "https://ssandglass.github.io/Gold.God/BL0608.jar"
+	  "spider": "clan://Download/BL0608.jar"
 }
