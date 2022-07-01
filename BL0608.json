@@ -40,10 +40,10 @@
       "key": "csp_apple",
       "name": "🍎小苹果(SP)",
       "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+       "api": "csp_LiteApple",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1
     },
     {
       "key": "csp_77",
@@ -131,8 +131,8 @@
      "name":"🅱哔哩套餐",
      "type":3,
      "api":"csp_BBB",
-     "searchable":0,
-     "quickSearch":0,
+     "searchable":1,
+     "quickSearch":1,
      "filterable":1
     },
     {
