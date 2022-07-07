@@ -1,4 +1,4 @@
-{
+i{
   "sites": [
    {
       "key": "360_spider",
@@ -136,14 +136,13 @@
      "filterable":1
     },
     {
-      "key": "___xmf哔",
-      "name": "哔嘀",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitea.com/sandglass/jiek/raw/branch/main/bidi.json"
+     "key": "csp_Blixq",
+     "name":"戏曲",
+     "type": 3,
+     "api": "csp_Blixq",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1
     },
     {
       "key":"spider_Bttoo",
@@ -579,5 +578,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-	  "spider": "https://ssandglass.github.io/Gold.God/BL0608.jar"
+	  "spider": "https://ssandglass.github.io/Gold.God/0707.jar"
 }
